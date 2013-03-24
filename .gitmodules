@@ -19,3 +19,6 @@
 [submodule "dmCorePlugin/lib/vendor/php-user-agent"]
 	path = dmCorePlugin/lib/vendor/php-user-agent
 	url = git://github.com/diem-project/php-user-agent.git
+[submodule "symfony"]
+	path = symfony
+	url = git://github.com/symfony/symfony1.git
