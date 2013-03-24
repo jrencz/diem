@@ -10,9 +10,6 @@
 [submodule "dmCorePlugin/plugins/sfFormExtraPlugin"]
 	path = dmCorePlugin/plugins/sfFormExtraPlugin
 	url = git://github.com/diem-project/sfFormExtraPlugin.git
-[submodule "symfony"]
-	path = symfony
-url=git://github.com/symfony/symfony1.git
 [submodule "dmCorePlugin/test/project/plugins/dmTagPlugin"]
 	path = dmCorePlugin/test/project/plugins/dmTagPlugin
 	url = git://github.com/diem-project/dmTagPlugin.git
@@ -22,3 +19,6 @@ url=git://github.com/symfony/symfony1.git
 [submodule "dmCorePlugin/lib/vendor/php-user-agent"]
 	path = dmCorePlugin/lib/vendor/php-user-agent
 	url = git://github.com/diem-project/php-user-agent.git
+[submodule "symfony"]
+	path = symfony
+	url = git://github.com/symfony/symfony1.git
